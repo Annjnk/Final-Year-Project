@@ -1,0 +1,10 @@
+# Conda env fyp, Python 3.12.16, Darwin arm64, written 2026-11-17
+xgboost==3.4.1
+lightgbm==4.7.0
+catboost==1.2.10
+tabpfn==10.1.0
+torch==2.15.0
+scikit-learn==1.9.1
+numpy==2.5.4
+pandas==3.1.1
+pyarrow==26.0.1
